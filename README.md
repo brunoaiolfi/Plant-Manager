@@ -1,7 +1,10 @@
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
-</p>
+<h1 align="center">
+PlantManager
+</h1>
 
+<p align="center">
+Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
+</p>
 <br>
 
 ## ✨ Tecnologias
@@ -11,10 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
-
-## 💻 Projeto
-
-Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
 
 ## 🔖 Layout
 
