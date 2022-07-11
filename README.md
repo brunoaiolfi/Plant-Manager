@@ -1,5 +1,5 @@
 <h1 align="center">
-PlantManager
+PlantManager 🌱
 </h1>
 
 <p align="center">
